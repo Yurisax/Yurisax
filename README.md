@@ -3,8 +3,8 @@
 - 📚 Atualmente cursando ciências da computação na universidade Estácio de Sá. Com foco em programação front end, busco diariamente conhecimentos na área das tecnologias. Adquirir conhecimento é sempre essencial, o foco atual está nas linguagens CSS3, HTML5 e Java Script.
 - ⌛ Procuro, principalmente, estar visível para recrutadores de empresas, para poder ingressar no mercado de trabalho como programador.
 - 📫 Contatos//
-              Telefone: 31 9 8248-3682
-              E-mail: ferrerar.santos@gmail.com
+              Telefone: 31 9 8248-3682 - 
+              E-mail: ferrerar.santos@gmail.com - 
               LinkedIn: https://www.linkedin.com/in/yuri-jonathan-a80103113/
 <!---
 Yurisax/Yurisax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
